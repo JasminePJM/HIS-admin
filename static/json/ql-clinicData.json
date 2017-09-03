@@ -1,0 +1,292 @@
+{
+  "resultCode": "0",
+  "resultMsg": "",
+  "data": {
+    "currPage": 1,
+    "total": 8,
+    
+    "pageSize": 10,
+    "personalInfo":[
+      {
+        "officeName": "儿童保健科",
+        "personalName": "盘佳敏",
+        "sex": "女",
+        "tel": "16800168001",
+        "loginName": "panjiamin",
+        "loginTime": "2017-08-04"
+      },
+      {
+        "officeName": "儿童保健科",
+        "personalName": "盘佳敏",
+        "sex": "女",
+        "tel": "16800168001",
+        "loginName": "panjiamin",
+        "loginTime": "2017-08-04"
+      },
+      {
+        "officeName": "儿童保健科",
+        "personalName": "盘佳敏",
+        "sex": "女",
+        "tel": "16800168001",
+        "loginName": "panjiamin",
+        "loginTime": "2017-08-04"
+      },
+      {
+        "officeName": "儿童保健科",
+        "personalName": "盘佳敏",
+        "sex": "女",
+        "tel": "16800168001",
+        "loginName": "panjiamin",
+        "loginTime": "2017-08-04"
+      },
+      {
+        "officeName": "儿童保健科",
+        "personalName": "盘佳敏",
+        "sex": "女",
+        "tel": "16800168001",
+        "loginName": "panjiamin",
+        "loginTime": "2017-08-04"
+      },
+      {
+        "officeName": "儿童保健科",
+        "personalName": "盘佳敏",
+        "sex": "女",
+        "tel": "16800168001",
+        "loginName": "panjiamin",
+        "loginTime": "2017-08-04"
+      },
+      {
+        "officeName": "儿童保健科",
+        "personalName": "盘佳敏",
+        "sex": "女",
+        "tel": "16800168001",
+        "loginName": "panjiamin",
+        "loginTime": "2017-08-04"
+      },
+      {
+        "officeName": "儿童保健科",
+        "personalName": "盘佳敏",
+        "sex": "女",
+        "tel": "16800168001",
+        "loginName": "panjiamin",
+        "loginTime": "2017-08-04"
+      }
+      
+    ],
+    "countHz1":[
+      {
+        "date": "2017-08",
+        "zhenjin": "100.00",
+        "xiyao": "100.00",
+        "jiancha": "100.00",
+        "huayan": "100.00",
+        "chaosheng": "100.00",
+        "zhiliao":"100.00",
+        "xietiao":"100.00",
+        "taocan":"100.00",
+        "sum":"800.00",
+        "zhekou":"100.00",
+        "yingshou":"800.00",
+        "shishou":"700.00"
+      },
+      {
+        "date": "2017-08",
+        "zhenjin": "100.00",
+        "xiyao": "100.00",
+        "jiancha": "100.00",
+        "huayan": "100.00",
+        "chaosheng": "100.00",
+        "zhiliao":"100.00",
+        "xietiao":"100.00",
+        "taocan":"100.00",
+        "sum":"800.00",
+        "zhekou":"100.00",
+        "yingshou":"800.00",
+        "shishou":"700.00"
+      },
+      {
+        "date": "2017-08",
+        "zhenjin": "100.00",
+        "xiyao": "100.00",
+        "jiancha": "100.00",
+        "huayan": "100.00",
+        "chaosheng": "100.00",
+        "zhiliao":"100.00",
+        "xietiao":"100.00",
+        "taocan":"100.00",
+        "sum":"800.00",
+        "zhekou":"100.00",
+        "yingshou":"800.00",
+        "shishou":"700.00"
+      },
+      {
+        "date": "2017-08",
+        "zhenjin": "100.00",
+        "xiyao": "100.00",
+        "jiancha": "100.00",
+        "huayan": "100.00",
+        "chaosheng": "100.00",
+        "zhiliao":"100.00",
+        "xietiao":"100.00",
+        "taocan":"100.00",
+        "sum":"800.00",
+        "zhekou":"100.00",
+        "yingshou":"800.00",
+        "shishou":"700.00"
+      },
+      {
+        "date": "2017-08",
+        "zhenjin": "100.00",
+        "xiyao": "100.00",
+        "jiancha": "100.00",
+        "huayan": "100.00",
+        "chaosheng": "100.00",
+        "zhiliao":"100.00",
+        "xietiao":"100.00",
+        "taocan":"100.00",
+        "sum":"800.00",
+        "zhekou":"100.00",
+        "yingshou":"800.00",
+        "shishou":"700.00"
+      },
+      {
+        "date": "2017-08",
+        "zhenjin": "100.00",
+        "xiyao": "100.00",
+        "jiancha": "100.00",
+        "huayan": "100.00",
+        "chaosheng": "100.00",
+        "zhiliao":"100.00",
+        "xietiao":"100.00",
+        "taocan":"100.00",
+        "sum":"800.00",
+        "zhekou":"100.00",
+        "yingshou":"800.00",
+        "shishou":"700.00"
+      },
+      {
+        "date": "2017-08",
+        "zhenjin": "100.00",
+        "xiyao": "100.00",
+        "jiancha": "100.00",
+        "huayan": "100.00",
+        "chaosheng": "100.00",
+        "zhiliao":"100.00",
+        "xietiao":"100.00",
+        "taocan":"100.00",
+        "sum":"800.00",
+        "zhekou":"100.00",
+        "yingshou":"800.00",
+        "shishou":"700.00"
+      }
+    ],
+    "countMx1":[
+      {
+        "date": "2017-08",
+        "kehuName":"黄太子",
+        "zhenjin":"100.00",
+        "xiyao": "100.00",
+        "jiancha": "100.00",
+        "huayan": "100.00",
+        "chaosheng": "100.00",
+        "zhiliao":"100.00",
+        "xietiao":"100.00",
+        "taocan":"100.00",
+        "sum":"800.00",
+        "zhekou":"100.00",
+        "yingshou":"800.00",
+        "shishou":"700.00",
+        "shoufeiyuan":"小二"
+      },
+      {
+        "date": "2017-08",
+        "kehuName":"黄太子",
+        "zhenjin":"100.00",
+        "xiyao": "100.00",
+        "jiancha": "100.00",
+        "huayan": "100.00",
+        "chaosheng": "100.00",
+        "zhiliao":"100.00",
+        "xietiao":"100.00",
+        "taocan":"100.00",
+        "sum":"800.00",
+        "zhekou":"100.00",
+        "yingshou":"800.00",
+        "shishou":"700.00",
+        "shoufeiyuan":"小二"
+      },
+      {
+        "date": "2017-08",
+        "kehuName":"黄太子",
+        "zhenjin":"100.00",
+        "xiyao": "100.00",
+        "jiancha": "100.00",
+        "huayan": "100.00",
+        "chaosheng": "100.00",
+        "zhiliao":"100.00",
+        "xietiao":"100.00",
+        "taocan":"100.00",
+        "sum":"800.00",
+        "zhekou":"100.00",
+        "yingshou":"800.00",
+        "shishou":"700.00",
+        "shoufeiyuan":"小二"
+      },
+      {
+        "date": "2017-08",
+        "kehuName":"黄太子",
+        "zhenjin":"100.00",
+        "xiyao": "100.00",
+        "jiancha": "100.00",
+        "huayan": "100.00",
+        "chaosheng": "100.00",
+        "zhiliao":"100.00",
+        "xietiao":"100.00",
+        "taocan":"100.00",
+        "sum":"800.00",
+        "zhekou":"100.00",
+        "yingshou":"800.00",
+        "shishou":"700.00",
+        "shoufeiyuan":"小二"
+      },
+      {
+        "date": "2017-08",
+        "kehuName":"黄太子",
+        "zhenjin":"100.00",
+        "xiyao": "100.00",
+        "jiancha": "100.00",
+        "huayan": "100.00",
+        "chaosheng": "100.00",
+        "zhiliao":"100.00",
+        "xietiao":"100.00",
+        "taocan":"100.00",
+        "sum":"800.00",
+        "zhekou":"100.00",
+        "yingshou":"800.00",
+        "shishou":"700.00",
+        "shoufeiyuan":"小二"
+      },
+      {
+        "date": "2017-08",
+        "kehuName":"黄太子",
+        "zhenjin":"100.00",
+        "xiyao": "100.00",
+        "jiancha": "100.00",
+        "huayan": "100.00",
+        "chaosheng": "100.00",
+        "zhiliao":"100.00",
+        "xietiao":"100.00",
+        "taocan":"100.00",
+        "sum":"800.00",
+        "zhekou":"100.00",
+        "yingshou":"800.00",
+        "shishou":"700.00",
+        "shoufeiyuan":"小二"
+      }
+
+
+    ]
+
+
+  }
+}

@@ -1,0 +1,59 @@
+{
+	"recipe":{
+		"pillTable": [{
+          	"pillName": "大蒜素注射液",
+            "pillSize": "5ml;60mg/5支/盒",
+          	"pillUse": "静脉注射",
+          	"pillDosage":"60mg",
+          	"pillFrequency":"2次/天",
+          	"pillDays":"1",
+          	"pillEntrust":"",
+          	"pillNum":"1",
+          	"pillUnit":"盒"
+        },{
+        	"pillName": "布洛芬缓释胶囊",
+          "pillSize": "(20片/盒)",
+        	"pillUse": "口服",
+        	"pillDosage":"2片",
+        	"pillFrequency":"2次/天",
+        	"pillDays":"2",
+        	"pillEntrust":"",
+        	"pillNum":"1",
+        	"pillUnit":"盒"
+        }
+    ],
+    "ptVisitData": [{
+          "ptVisitNum":"1",
+          "ptVisitSerial":"20160908000007",
+          "ptName":"李春华",
+          "ptSex":"女",
+          "ptTime":"2016-09-08 11:00~12:00",
+          "ptClinic":"儿童保健科",
+          "ptDoctor":"王医生"
+      },{
+          "ptVisitNum":"1",
+          "ptVisitSerial":"20160908000007",
+          "ptName":"周老虎",
+          "ptSex":"女",
+          "ptTime":"2016-09-08 11:00~12:00",
+          "ptClinic":"儿童保健科",
+          "ptDoctor":"王医生"
+      },{
+          "ptVisitNum":"1",
+          "ptVisitSerial":"20160908000007",
+          "ptName":"王小二",
+          "ptSex":"女",
+          "ptTime":"2016-09-08 11:00~12:00",
+          "ptClinic":"儿童保健科",
+          "ptDoctor":"王医生"
+      },{
+          "ptVisitNum":"1",
+          "ptVisitSerial":"20160908000007",
+          "ptName":"张小芳",
+          "ptSex":"女",
+          "ptTime":"2016-09-08 11:00~12:00",
+          "ptClinic":"儿童保健科",
+          "ptDoctor":"王医生"
+      }]
+	}
+}

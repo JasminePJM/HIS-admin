@@ -1,0 +1,60 @@
+{
+	"data": 
+	[
+		{
+			"number": "1",
+			"ID": "1001",
+			"name": "李春华",
+			"sex": "女",
+			"age": "56岁",
+			"tel": "13012345678",
+			"duration": "3个月",
+			"visitTimes": "2次",
+			"isMember" : "蓝钻"
+		},
+		{
+			"number": "2",
+			"ID": "1002",
+			"name": "赵倩倩",
+			"sex": "女",
+			"age": "52岁",
+			"tel": "13075218760",
+			"duration": "8个月",
+			"visitTimes": "2次",
+			"isMember" : "红钻"
+		},
+		{
+			"number": "3",
+			"ID": "1003",
+			"name": "孙丽丽",
+			"sex": "女",
+			"age": "49岁",
+			"tel": "13437854360",
+			"duration": "3年",
+			"visitTimes": "1次",
+			"isMember" : "绿钻"
+		},
+		{
+			"number": "4",
+			"ID": "1004",
+			"name": "周鑫",
+			"sex": "男",
+			"age": "39岁",
+			"tel": "13012345678",
+			"duration": "11个月",
+			"visitTimes": "2次",
+			"isMember" : "粉钻"
+		},
+		{
+			"number": "5",
+			"ID": "1007",
+			"name": "吴思思",
+			"sex": "女",
+			"age": "27岁",
+			"tel": "13012345678",
+			"duration": "3个月",
+			"visitTimes": "2次",
+			"isMember" : "黄钻"
+		}
+	]
+}

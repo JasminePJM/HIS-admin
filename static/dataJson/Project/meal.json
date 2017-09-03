@@ -1,0 +1,38 @@
+"infoMeals": [
+        {
+        	"classify": "检查费",
+        	"name": "B超",
+        	"location": "诊疗室",
+        	"relateItem":["红细胞检查(RBC)","白细胞检查(WBC)","血红蛋白(Hb)","血小板数量(PLT),出血时间测定(BT)"],
+        	"state": true
+        }, 
+        {
+            "classify": "材料费",
+            "name": "针管",
+            "location": "诊疗室",
+            "relateItem":["红细胞检查(RBC)","白细胞检查(WBC)"],
+            "state": false
+        }, 
+        {
+            "classify": "检验费",
+            "name": "血常规（5项）",
+            "location": "诊疗室",
+            "relateItem":["血红蛋白(Hb)","血小板数量(PLT),出血时间测定(BT)"],
+            "state": true
+        }, 
+         {
+            "classify": "检验费",
+            "name": "血糖",
+            "location": "诊疗室",
+            "relateItem":["红细胞检查(RBC)","白细胞检查(WBC)","出血时间测定(BT)"],
+            "state": false
+        }, 
+        {
+            "classify": "治疗费",
+            "name": "儿童雾化",
+            "location": "诊疗室",
+            "relateItem":["红细胞检查(RBC)"],
+            "state": true
+        }
+    ],
+}

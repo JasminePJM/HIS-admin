@@ -1,0 +1,182 @@
+{
+	"appointment": {
+		"doctorData": [{
+			"date": "09:00~11:00",
+			"Drname": "刘医生",
+			"state": "出诊"
+		}],
+		"tableData": [{
+		  "date": "09:00~10:00",
+		  "appoint": 1,
+		  "name": "就诊中",
+		  "yourName": "李春华",
+		  "tel": 13012345678
+		}, {
+		  "date": "10:00~11:00",
+		  "appoint":0,
+		  "tag":0,
+		  "yourName": "无预约"
+		}, {
+		  "date": "09:00~10:00",
+		  "appoint":0,
+		  "tag":1,
+		  "yourName": "李春华",
+		  "tel": 13012345678
+		}],
+		"doctorName": [{
+		  "value": "选项1",
+		  "label": "刘医生"
+		}, {
+		  "value": "选项2",
+		  "label": "张医生"
+		}, {
+		  "value": "选项3",
+		  "label": "李医生"
+		}, {
+		  "value": "选项4",
+		  "label": "黄医生"
+		}, {
+		  "value": "选项5",
+		  "label": "潘医生"
+		}],
+		"doctorState": [{
+		  "value": "选项1",
+		  "label": "就诊中"
+		}, {
+		  "value": "选项2",
+		  "label": "无预约"
+		}, {
+		  "value": "选项3",
+		  "label": "休假中"
+		}],
+		"allAppointData": [{
+		   "yourDate": "20160908",
+		   "yourTime": "11:00~12:00",
+		   "pay": 1,
+		   "name": "就诊中",
+		   "yourName": "李春华",
+		   "yourSex": "女",
+		   "yourTel": 13012345678,
+		   "yourDoctor": "王医生",
+		   "yourComplain": "病情描述文字太多会换行......",
+		   "state": "0"
+		}, {
+		   "yourDate": "20160908",
+		   "yourTime": "11:00~12:00",
+		   "pay": 1,
+		   "name": "就诊中",
+		   "yourName": "李春华",
+		   "yourSex": "女",
+		   "yourTel": 13012345678,
+		   "yourDoctor": "王医生",
+		   "yourComplain": "病情描述文字太多会换行......",
+		   "state":"1"
+		}, {
+		   "yourDate": "20160908",
+		   "yourTime": "11:00~12:00",
+		   "pay": 1,
+		   "name": "就诊中",
+		   "yourName": "李春华",
+		   "yourSex": "女",
+		   "yourTel": 13012345678,
+		   "yourDoctor": "王医生",
+		   "yourComplain": "病情描述文字太多会换行......",
+		   "state":"0"
+		},{
+			"yourDate": "20160908",
+			"yourTime": "11:00~12:00",
+		   "pay": 1,
+		   "name": "就诊中",
+		   "yourName": "李春华",
+		   "yourSex": "女",
+		   "yourTel": 13012345678,
+		   "yourDoctor": "王医生",
+		   "yourComplain": "病情描述文字太多会换行......",
+		   "state":"2"
+		 },{
+			"yourDate": "20160908",
+		   "yourTime": "11:00~12:00",
+		   "pay": 1,
+		   "name": "就诊中",
+		   "yourName": "李春华",
+		   "yourSex": "女",
+		   "yourTel": 13012345678,
+		   "yourDoctor": "王医生",
+		   "yourComplain": "病情描述文字太多会换行......",
+		   "state":"-1"
+		 },{
+			"yourDate": "20160908",
+		   "yourTime": "11:00~12:00",
+		   "pay": 0,
+		   "name": "就诊中",
+		   "yourName": "李春华",
+		   "yourSex": "女",
+		   "yourTel": 13012345678,
+		   "yourDoctor": "王医生",
+		   "yourComplain": "病情描述文字太多会换行......",
+		   "state":"-1"
+		 },{
+			"yourDate": "20160908",
+		   "yourTime": "11:00~12:00",
+		   "pay": 0,
+		   "name": "就诊中",
+		   "yourName": "李春华",
+		   "yourSex": "女",
+		   "yourTel": 13012345678,
+		   "yourDoctor": "王医生",
+		   "yourComplain": "病情描述文字太多会换行......",
+		   "state":"-1"
+		 }
+		 ],
+		 "patientData": [{
+		 	"ptName": "李春华",
+		 	"ptSex": "女",
+		 	"ptAge": 46,
+		 	"ptTel": 13012345678,
+		 	"ptTime": "2016-09-18",
+		 	"ptClock": "09:00~10:00",
+		 	"ptType": "初诊",
+		 	"ptDoctor": "王医生",
+		 	"ptDept": "儿科",
+		 	"ptComplain": "发热，感到不舒服，之前几天一直睡不着，吃了药也没用......",
+		 	"ptAllergy": "花粉过敏",
+		 	"ptDiagnose":"1.(左侧) 卵巢囊肿,确诊(复发); 2.(左侧) 卵巢囊肿; 3...............内容超出自动换行; 3...............内容超出自动换行;3...............内容超出自动换行;3...............内容超出自动换行;3...............内容超出自动换行;3...............内容超出自动换行;",
+		 	"ptBooking": [{
+		 		"order": "pid100000001",
+		 		"orderTime": "2016-09-16 16:32:22",
+		 		"bookChannel": "微信",
+		 		"sellChannel": "诊所介绍-王小啦"
+		 	}]
+		 }],
+		 "remainNum": [{
+		 	"day":"今天",
+		 	"date":"09-18",
+		 	"num":0
+		 },{
+		 	"day":"明天",
+		 	"date":"09-19",
+		 	"num":-1
+		 },{
+		 	"day":"周二",
+		 	"date":"09-20",
+		 	"num":-1
+		 },{
+		 	"day":"周三",
+		 	"date":"09-21",
+		 	"num":3
+		 },{
+		 	"day":"周四",
+		 	"date":"09-22",
+		 	"num":3
+		 },{
+		 	"day":"周五",
+		 	"date":"09-23",
+		 	"num":5
+		 },{
+		 	"day":"周六",
+		 	"date":"09-24",
+		 	"num":-1
+		 }
+		 ]
+	}
+}

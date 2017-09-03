@@ -1,0 +1,44 @@
+{
+	"data": 
+	[
+		{
+			"orgCode": "0",
+			"userName": "zero",
+			"orgName":"肇庆仁爱店",
+			"psd": "0",
+			"img":"http://album.u17i.com/image/2011/02/cc/0a/89995_7263_529436_VzCk.jpg"
+		},
+		{
+			"orgCode": "01",
+			"orgName":"珠江体育西店",
+			"userName": "pjm",
+			"psd": "123456"
+		},
+		{
+			"orgCode": "01",
+			"orgName":"珠江店",
+			"userName": "styy",
+			"psd": "123456"
+		},
+		{
+			"orgCode": "01",
+			"orgName":"珠江新城店",
+			"userName": "oql",
+			"psd": "123456"
+		},
+		{
+			"orgCode": "01",
+			"orgName":"博罗仁爱店",
+			"userName": "ljx",
+			"psd": "123456",
+			"img":"http://img1.imgtn.bdimg.com/it/u=1306081582,3823878865&fm=26&gp=0.jpg"
+		},
+		{
+			"orgCode": "1",
+			"orgName":"珠江新城店",
+			"userName": "1",
+			"psd": "1",
+			"img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1502275703477&di=105d41da5b03ba7f28b0a5c82e3568bc&imgtype=0&src=http%3A%2F%2Fimg1.skqkw.cn%3A888%2F2014%2F11%2F26%2F08%2F35dmc04hgxb-72405.jpg"
+		}
+	]
+}
